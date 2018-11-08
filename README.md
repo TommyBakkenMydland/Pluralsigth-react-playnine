@@ -2,7 +2,7 @@
 ### Numbers selection game
 
 
-## How to run procjet
+## How to run project
 
 1. npm install
 2. npm run
