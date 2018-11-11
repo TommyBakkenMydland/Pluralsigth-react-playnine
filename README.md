@@ -6,3 +6,5 @@
 
 1. npm install
 2. npm run
+
+#### [I'm an inline-style link with title](https://app.pluralsight.com/library/courses/react-js-getting-started/ "Pluralsight URL Course") 
